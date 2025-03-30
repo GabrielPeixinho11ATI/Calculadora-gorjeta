@@ -61,3 +61,7 @@ let bill = 0
         console.log("ainda não é possivel calcular")
     }
 }
+
+function reset(){
+    
+}
